@@ -4,7 +4,7 @@
 
 > Currently building at **[PMU Tech](https://www.welcometothejungle.com/fr/companies/pmu/tech-1)**. 
 
-Father of [playdot-player](#-open-source) | [revue](#-open-source) | [ironoxlint](#-open-source) | [vid2av1](#-open-source)
+Father of [playdot-player](https://github.com/StephanOrgiazzi/playdot-player) | [revue]([#-open-source](https://github.com/stephanorgiazzi/revue) | [ironoxlint](https://github.com/stephanorgiazzi/ironoxlint)
 
 <a href="https://stephanorgiazzi.github.io/portfolio"><img src="https://img.shields.io/badge/🌐_Portfolio_Website-007FFF?style=for-the-badge&logo=globe&logoColor=white" alt="Website" /></a>
 
@@ -26,10 +26,9 @@ Father of [playdot-player](#-open-source) | [revue](#-open-source) | [ironoxlint
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [playdot-player](https://github.com/orgiazzi/playdot-player) | Premium video player for Windows | Tauri 2 + React 19 + mpv |
-| [revue](https://github.com/orgiazzi/revue) | iOS/Android magazine-style markdown reader | Expo Router + React Native |
-| [ironoxlint](https://github.com/orgiazzi/ironoxlint) | Strict opinionated Oxlint config for React | TypeScript + Oxlint |
-| [vid2av1](https://github.com/orgiazzi/vid2av1) | Windows AV1 converter with RTX optimization | Tauri + Rust + FFmpeg |
+| [playdot-player](https://github.com/stephanorgiazzi/playdot-player) | Premium video player for Windows | Tauri 2 + React 19 + mpv |
+| [revue](https://github.com/stephanorgiazzi/revue) | iOS/Android magazine-style markdown reader | Expo Router + React Native |
+| [ironoxlint](https://github.com/stephanorgiazzi/ironoxlint) | Strict opinionated Oxlint config for React | TypeScript + Oxlint |
 
 ---
 
