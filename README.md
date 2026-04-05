@@ -2,7 +2,7 @@
 
 **Software Engineer** based in Paris who likes to ship beautiful apps with TypeScript.
 
-> Currently building at **PMU**. 
+> Currently building at **[PMU Tech](https://www.welcometothejungle.com/fr/companies/pmu/tech-1)**. 
 
 Father of [playdot-player](#-open-source) | [revue](#-open-source) | [ironoxlint](#-open-source) | [vid2av1](#-open-source)
 
