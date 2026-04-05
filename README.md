@@ -4,7 +4,7 @@
 
 > Currently building at **[PMU Tech](https://www.welcometothejungle.com/fr/companies/pmu/tech-1)**. 
 
-Father of [playdot-player](https://github.com/StephanOrgiazzi/playdot-player) | [revue]([#-open-source](https://github.com/stephanorgiazzi/revue) | [ironoxlint](https://github.com/stephanorgiazzi/ironoxlint)
+Father of [playdot-player](https://github.com/StephanOrgiazzi/playdot-player) | [revue](https://github.com/stephanorgiazzi/revue) | [ironoxlint](https://github.com/stephanorgiazzi/ironoxlint)
 
 <a href="https://stephanorgiazzi.github.io/portfolio"><img src="https://img.shields.io/badge/🌐_Portfolio_Website-007FFF?style=for-the-badge&logo=globe&logoColor=white" alt="Website" /></a>
 
