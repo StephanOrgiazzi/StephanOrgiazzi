@@ -6,6 +6,8 @@
 
 Father of [playdot-player](#-open-source) | [revue](#-open-source) | [ironoxlint](#-open-source) | [vid2av1](#-open-source)
 
+<a href="https://stephanorgiazzi.github.io/portfolio"><img src="https://img.shields.io/badge/🌐_Portfolio_Website-007FFF?style=for-the-badge&logo=globe&logoColor=white" alt="Website" /></a>
+
 ---
 
 ## 🛠 Tech Stack
@@ -13,8 +15,9 @@ Father of [playdot-player](#-open-source) | [revue](#-open-source) | [ironoxlint
 <span>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=reactnative&logoColor=white" alt="React Native" />
   <img src="https://img.shields.io/badge/Tauri-2B3139?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/Astro-FF5F03?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
 </span>
 
 ---
@@ -23,6 +26,7 @@ Father of [playdot-player](#-open-source) | [revue](#-open-source) | [ironoxlint
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [portfolio](https://github.com/orgiazzi/portfolio) | Personal portfolio & writing site | Astro + TypeScript |
 | [playdot-player](https://github.com/orgiazzi/playdot-player) | Premium video player for Windows | Tauri 2 + React 19 + mpv |
 | [revue](https://github.com/orgiazzi/revue) | iOS/Android magazine-style markdown reader | Expo Router + React Native |
 | [ironoxlint](https://github.com/orgiazzi/ironoxlint) | Strict opinionated Oxlint config for React | TypeScript + Oxlint |
