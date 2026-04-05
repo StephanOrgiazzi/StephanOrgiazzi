@@ -26,7 +26,6 @@ Father of [playdot-player](#-open-source) | [revue](#-open-source) | [ironoxlint
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [portfolio](https://github.com/orgiazzi/portfolio) | Personal portfolio & writing site | Astro + TypeScript |
 | [playdot-player](https://github.com/orgiazzi/playdot-player) | Premium video player for Windows | Tauri 2 + React 19 + mpv |
 | [revue](https://github.com/orgiazzi/revue) | iOS/Android magazine-style markdown reader | Expo Router + React Native |
 | [ironoxlint](https://github.com/orgiazzi/ironoxlint) | Strict opinionated Oxlint config for React | TypeScript + Oxlint |
