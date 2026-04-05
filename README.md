@@ -10,18 +10,6 @@ Father of [playdot-player](https://github.com/StephanOrgiazzi/playdot-player) | 
 
 ---
 
-## 🛠 Tech Stack
-
-<span>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=reactnative&logoColor=white" alt="React Native" />
-  <img src="https://img.shields.io/badge/Tauri-2B3139?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
-  <img src="https://img.shields.io/badge/Astro-FF5F03?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-</span>
-
----
-
 ## 📦 Open Source
 
 | Project | Description | Tech |
