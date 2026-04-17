@@ -22,6 +22,6 @@ Father of [playdot-player](https://github.com/StephanOrgiazzi/playdot-player) | 
 
 ## 📝 Recent Writing
 
-- **[Understanding Harness Engineering: A Simple Yet Deep Dive into Context-Layer Architecture for Agentic Development](https://medium.com/)** — *2026-03-29*
+- **[Understanding Harness Engineering: A Simple Yet Deep Dive into Context-Layer Architecture for Agentic Development](https://stephanorgiazzi.github.io/portfolio/writing/harness_engineering/)** — *2026-03-29*
 
 ---
